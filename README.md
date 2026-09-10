@@ -1,34 +1,42 @@
-## Hejsan! 👋
+# Hejsan! 👋
 
 Maayan heter jag och pluggar just nu webbutveckling på MIUN 📚
 
-### Lite fakta om mig ✨
+## Lite fakta om mig ✨
 
-Nuvarande sysselsättning:
+### Nuvarande sysselsättning:
 
-- [x] Studerar
-- [ ] Jobbar
-- [ ] Arbetssökande
+|                     |     |
+| ------------------- | --- |
+| - [x] Studerar      |
+| - [ ] Jobbar        |
+| - [ ] Arbetssökande |
 
-Personlighetsdrag:
+### Personlighetsdrag:
 
-- [x] Extrovert     - [x] Introvert
-- [x] Optimist      - [ ] Pessimist
-- [x] Spontan       - [x] Planerare
+|                 |                 |
+| --------------- | --------------- |
+| - [x] Extrovert | - [x] Introvert |
+| - [x] Optimist  | - [ ] Pessimist |
+| - [x] Spontan   | - [x] Planerare |
 
-Livsstil: 
+### Livsstil:
 
-- [ ] Morgonpigg    - [x] Nattuggla
-- [x] Organiserad   - [ ] Kaotisk
-- [x] Hemlagat      - [x] Take away
+|                   |                 |
+| ----------------- | --------------- |
+| - [ ] Morgonpigg  | - [x] Nattuggla |
+| - [x] Organiserad | - [ ] Kaotisk   |
+| - [x] Hemlagat    | - [x] Take away |
 
-Nöjen:
+### Nöjen:
 
-- [ ] Läsa bok      - [x] Titta på film
-- [x] Salta snacks  - [x] Söta snacks
-- [ ] Kaffe         - [x] Te
+|                    |                     |
+| ------------------ | ------------------- |
+| - [ ] Läsa bok     | - [x] Titta på film |
+| - [x] Salta snacks | - [x] Söta snacks   |
+| - [ ] Kaffe        | - [x] Te            |
 
 ⭐
 
 Läs mer om mig på min [LinkedIn](https://www.linkedin.com/in/maayan-grolman-438ab6262/)
- som jag inte uppdaterat på tre år men planerar att göra så småningom 🧚
+som jag inte uppdaterat på tre år men planerar att göra så småningom 🧚
